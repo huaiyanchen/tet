@@ -1,5 +1,3 @@
-package Java;
-//
 
 public class Add1 {
     int add(int a, int b) {
